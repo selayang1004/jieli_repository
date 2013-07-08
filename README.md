@@ -1,2 +1,2 @@
-jieli_repository
+program by Jieli
 ================
