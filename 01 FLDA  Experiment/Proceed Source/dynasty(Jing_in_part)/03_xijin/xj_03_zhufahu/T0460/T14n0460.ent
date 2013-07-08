@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf8" ?>
+<!ENTITY CB00057 "<gaiji uniflag='1' cb='CB00057' des='[口*兄]' uni='546A' nor='咒' mojikyo='M003443' mofont='Mojikyo M101' mochar='5DCD'/>" >
+<!ENTITY CB00205 "<gaiji uniflag='0' cb='CB00205' des='[火*霍]' uni='3E0C' mojikyo='M067056' mofont='Mojikyo M112' mochar='81D1'/>" >
+<!ENTITY CB00213 "<gaiji uniflag='1' cb='CB00213' des='[牛/牪]' uni='7287' nor='奔' mojikyo='M020058' mofont='Mojikyo M104' mochar='559E'/>" >
+<!ENTITY CB00225 "<gaiji uniflag='1' cb='CB00225' des='[王*貴]' uni='749D' mojikyo='M021244' mofont='Mojikyo M104' mochar='71FC'/>" >
+<!ENTITY CB00308 "<gaiji uniflag='1' cb='CB00308' des='[色-巴+鹿]' uni='9E81' nor='麤' mojikyo='M047591' mofont='Mojikyo M109' mochar='4F75'/>" >
+<!ENTITY CB00418 "<gaiji uniflag='1' cb='CB00418' des='[者*見]' uni='89A9' nor='睹' mojikyo='M034913' mofont='Mojikyo M107' mochar='4F3A'/>" >
+<!ENTITY CB00458 "<gaiji uniflag='1' cb='CB00458' des='[甚*少]' uni='5C20' nor='尟' mojikyo='M007523' mofont='Mojikyo M102' mochar='5E81'/>" >
+<!ENTITY CB00484 "<gaiji uniflag='1' cb='CB00484' des='[病-丙+亞]' uni='7602' nor='啞' mojikyo='M022297' mofont='Mojikyo M104' mochar='89B2'/>" >
+<!ENTITY CB00672 "<gaiji uniflag='1' cb='CB00672' des='[豊*色]' uni='8276' nor='豔' mojikyo='M030632' mofont='Mojikyo M106' mochar='8461'/>" >
+<!ENTITY CB00836 "<gaiji uniflag='0' cb='CB00836' des='[病-丙+(匆/心)]' mojikyo='M067158' mofont='Mojikyo M112' mochar='83E0'/>" >
+<!ENTITY CB02895 "<gaiji uniflag='0' cb='CB02895' des='[跳-兆+區]' uni='28105' mojikyo='M037781' mofont='Mojikyo M107' mochar='68CA'/>" >
